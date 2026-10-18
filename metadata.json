@@ -1,0 +1,6 @@
+{
+  "name": "数字式缩略语翻译技巧标注工具",
+  "description": "专业的汉英句对齐数字式缩略语翻译策略（直译、意译、直译+意译、仿拟/借用）智能标注工具，支持Word文档(.docx)上传、在线可视化对照与导出交付。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
